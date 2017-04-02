@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Holmes</title>
+    <description>PhD Student @ Queen&#39;s University Belfast</description>
+    <link>http://bholmesqub.github.io</link>
+    <atom:link href="http://bholmesqub.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
