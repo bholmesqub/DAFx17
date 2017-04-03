@@ -7,7 +7,7 @@ This is the companion webpage for the 20th International Conference on Digital A
 ### ACME Model download
 <a href="{{ site.baseurl }}/models/rangemaster.jl">Rangemaster model</a>
 
-<a href="{{ site.baseurl }}/models/rangemaster.jl">Fuzz-Face model</a>
+<a href="{{ site.baseurl }}/models/fuzzface.jl">Fuzz-Face model</a>
 
 ### Audio samples
 
