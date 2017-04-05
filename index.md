@@ -4,11 +4,6 @@ title: Comparison of germanium bipolar junction transistor models for real-time 
 ---
 This is the companion webpage for the 20th International Conference on Digital Audio Effects paper submission  by Ben Holmes, Martin Holters, and Maarten van Walstijn.
 
-### ACME Model download
-<a href="{{ site.baseurl }}/models/rangemaster.jl">Rangemaster model</a>
-
-<a href="{{ site.baseurl }}/models/fuzzface.jl">Fuzz-Face model</a>
-
 ### Audio samples
 
 Each processed sound example consists of three concatenated samples:
